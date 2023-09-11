@@ -4,3 +4,4 @@ I have uploaded new Gerbers that have components for filters on the output of th
 Need to add the parts to the BOM still
 Adds 3 4.7nf 0805 smb capacitors
 Adds 4 10k 0805 smb resistors
+09/11/2023 - BOM update.  BOM.xlsx is the bom you should use
